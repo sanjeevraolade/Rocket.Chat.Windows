@@ -8,6 +8,8 @@ description: Rocket.Chat Windows Release Build generation Guide
 
 ## How to Generate Windows Release Build 
 
+Recomended to have a machine with atleast 8GB of RAM
+
 The following guide will step through the various steps for generating Windows Release build for Rocket.Chat.
 
 **Note**: The steps will include all dependencies. If a particular dependency has already been installed, please skip to any relevant configuration section.
@@ -26,9 +28,9 @@ Download and install each of the following **in order**:
 ### Rocket.Chat files
 
 
-1. Get the available latest version of Rocket.Chat from git repo(https://github.com/stealth-grid/Rocket.Chat).
+1. Get the available latest version of Rocket.Chat from git repo(https://github.com/stealth-grid/Rocket.Chat.Windows).
 
-    `git clone https://github.com/stealth-grid/Rocket.Chat`
+    `git clone https://github.com/stealth-grid/Rocket.Chat.Windows`
 2. Open the _Developer Command Prompt for VS 2017_ by pressing Start, typing its name, and clicking on it in the search results and _Run as Administrator_ and runn the following commands, replaceing the [Repo path] & [Build output path]
     ```cmd
     > npm config set python /Python27/python.exe --global
