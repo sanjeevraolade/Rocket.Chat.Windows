@@ -8,7 +8,7 @@ description: Rocket.Chat Windows Release Build generation Guide
 
 ## How to Generate Windows Release Build 
 
-Recomended to have a machine with atleast 8GB of RAM
+***Recomended to have a machine with atleast 8GB of RAM***
 
 The following guide will step through the various steps for generating Windows Release build for Rocket.Chat.
 
