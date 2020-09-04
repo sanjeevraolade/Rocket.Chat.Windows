@@ -10,7 +10,7 @@ The following guide will step through the various steps for installing Rocket.Ch
 
 ---
 
-### Binary Dependencies 
+### Binary Dependencies
 
 Download and install each of the following **in order**:
 
